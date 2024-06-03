@@ -1,2 +1,2 @@
-# Quiz_App
-Quiz app using HTML, CSS and Javascript
+# Demo
+[Preview the design here](https://ayman-dwikat.github.io/Quiz_App/)
